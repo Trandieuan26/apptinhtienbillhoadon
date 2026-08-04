@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
 
-st.title("🍽️ Hệ thống Order Nhà Hàng")
+st.title("🍽️ Hệ thống Order Nhà Hàng-Tran dieu an")
 
 # Thực đơn
 menu = {
